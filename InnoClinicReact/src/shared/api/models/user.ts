@@ -5,5 +5,4 @@ export interface User {
   email: string;
   role: UserRoleType;
   token: string;
-  avatar?: string | null;
 }
